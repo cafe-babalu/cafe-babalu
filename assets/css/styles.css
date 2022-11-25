@@ -1,0 +1,20 @@
+.button {
+    background-color: #00afaf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+          }
+.cdf{
+    filter: invert(99%) sepia(99%) saturate(0%) hue-rotate(262deg) brightness(107%) contrast(100%);
+    width: 12px;
+    vertical-align: middle;
+}
+
+.button a.menu{
+    text-decoration: none;
+    color: white;
+}
